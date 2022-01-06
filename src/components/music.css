@@ -1,0 +1,19 @@
+.borderP {
+  /*border: 3px solid #43e8fa;*/
+}
+.noBorder {
+  border: 0px;
+  background-color: transparent;
+}
+audio::-webkit-media-controls-panel {
+  background-color: white;
+  border-radius: 0px;
+  border: 1px solid #e1e1e1;
+}
+.head {
+  font-size: 155px;
+  font-family: monospace;
+}
+.btn1 {
+  width: 155px;
+}
