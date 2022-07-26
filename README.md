@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live demo
+[lve demo over here](https://music-fetch-app.herokuapp.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
