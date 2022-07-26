@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live demo
-[lve demo over here](https://music-fetch-app.herokuapp.com)
+[live demo over here](https://music-fetch-app.herokuapp.com)
 
 ## Available Scripts
 
